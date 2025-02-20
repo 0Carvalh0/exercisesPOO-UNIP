@@ -27,7 +27,7 @@ Cada pasta contém os arquivos relacionados aos exercícios daquela aula especí
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/0Carvalh0/exercisesLTP-UNIP.git
+   git clone https://github.com/0Carvalh0/exercisesPOO-UNIP.git
    ```
 2. Navegue até a pasta do exercício desejado.
 
