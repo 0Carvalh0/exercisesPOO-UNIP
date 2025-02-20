@@ -12,8 +12,8 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 O repositório está organizado da seguinte forma:
 
-- `Exercicios_POO_DS3P40/ex001`: Exercícios da primeira aula
-- `Exercicios_POO_DS3P40/ex002`: Exercícios da segunda aula
+- `Exercicios_POO/ex001`: Exercícios da primeira aula
+- `Exercicios_POO/ex002`: Exercícios da segunda aula
 - ...
 
 Cada pasta contém os arquivos relacionados aos exercícios daquela aula específica.
