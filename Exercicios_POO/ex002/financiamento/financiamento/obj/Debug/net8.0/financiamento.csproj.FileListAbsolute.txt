@@ -1,0 +1,14 @@
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.AssemblyInfoInputs.cache
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.AssemblyInfo.cs
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.csproj.CoreCompileInputs.cache
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\bin\Debug\net8.0\financiamento.exe
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\bin\Debug\net8.0\financiamento.deps.json
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\bin\Debug\net8.0\financiamento.runtimeconfig.json
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\bin\Debug\net8.0\financiamento.dll
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\bin\Debug\net8.0\financiamento.pdb
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.dll
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\refint\financiamento.dll
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.pdb
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\financiamento.genruntimeconfig.cache
+C:\Users\lab9\Documents\ex002\financiamento\financiamento\obj\Debug\net8.0\ref\financiamento.dll
