@@ -1,0 +1,7 @@
+C:\Users\lab9\Documents\ex003\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\lab9\Documents\ex003\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\lab9\Documents\ex003\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\lab9\Documents\ex003\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\lab9\Documents\ex003\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\lab9\Documents\ex003\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\lab9\Documents\ex003\OOP\OOP\obj\Debug\OOP.pdb
