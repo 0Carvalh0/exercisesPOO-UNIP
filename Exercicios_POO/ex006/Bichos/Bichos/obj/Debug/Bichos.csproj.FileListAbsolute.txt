@@ -1,0 +1,7 @@
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\bin\Debug\Bichos.exe.config
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\bin\Debug\Bichos.exe
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\bin\Debug\Bichos.pdb
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\obj\Debug\Bichos.csproj.AssemblyReference.cache
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\obj\Debug\Bichos.csproj.CoreCompileInputs.cache
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\obj\Debug\Bichos.exe
+C:\Users\lab9\Documents\ex006\Bichos\Bichos\obj\Debug\Bichos.pdb
